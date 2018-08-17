@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 add
 push
+add - stage
+commit
+
