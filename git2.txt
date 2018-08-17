@@ -1,1 +1,2 @@
 Git is interesting and nice
+I love git
