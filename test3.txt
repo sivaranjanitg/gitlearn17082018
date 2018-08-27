@@ -1,0 +1,5 @@
+add
+push
+add - stage
+commit
+
