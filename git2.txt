@@ -1,7 +1,0 @@
-Git is interesting and nice
-I love git so much
-<<<<<<< Updated upstream
-I am testing checkout
-=======
-I am testing some more changes
->>>>>>> Stashed changes
