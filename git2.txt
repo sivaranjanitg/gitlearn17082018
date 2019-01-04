@@ -1,3 +1,5 @@
 Git is interesting and nice
 I love git so much
 I am testing in master once again
+I am testing in mastercopy
+
