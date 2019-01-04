@@ -3,8 +3,10 @@ I love git so much
 I am testing in mastercopy
 some changes in mastercopy
 
-I am checking push rever
+I am checking push revert
 
 add
 
-update
+some changes in master
+
+
