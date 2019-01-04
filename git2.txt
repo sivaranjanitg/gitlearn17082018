@@ -2,5 +2,4 @@ Git is interesting and nice
 I love git so much
 I am testing in mastercopy
 some changes in mastercopy
-git revert
 
