@@ -1,6 +1,0 @@
-add
-push
-add - stage
-commit
-test3
-

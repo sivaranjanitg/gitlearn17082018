@@ -1,2 +1,0 @@
-add: register achange in index
-commit: save changes in local repo
