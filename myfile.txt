@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master change1
+=======
+change from first
+>>>>>>> first
