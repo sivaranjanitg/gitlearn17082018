@@ -1,3 +1,6 @@
 public static void main(String args[]){
 	System.out.Println("Test");
 }
+
+public static void feature2(){
+}
