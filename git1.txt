@@ -5,5 +5,6 @@ public static void main(String args[]){
 public static void feature2(){
 }
 
-public static void feature21(){
+public static void feature1(){
+feature1 implemented
 }
